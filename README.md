@@ -1,1 +1,1 @@
-Informatics student from Italy.
+Computer science student from Italy.
